@@ -1,34 +1,48 @@
 [
 {
-	"uri": "http://sciwrite.github.io/",
+	"uri": "https://sciwrite.github.io/about-me/",
+	"title": "About Me",
+	"tags": [],
+	"description": "",
+	"content": "Here I will add some information about myself.\nTopic 1 The first topic I want to talk about is this: Some random text here\nSubtitle Hello Hello Xyz\nAnother topic Another topic I want to talk about\n"
+},
+{
+	"uri": "https://sciwrite.github.io/blog/",
+	"title": "Blog",
+	"tags": [],
+	"description": "",
+	"content": "Here are some blog articles of mine. See the links in the menu bar, because I don\u0026rsquo;t know yet how to automatically insert links to all blog posts in the place where this is written.\n"
+},
+{
+	"uri": "https://sciwrite.github.io/contact-me/",
+	"title": "Contact Me",
+	"tags": [],
+	"description": "",
+	"content": "Contact You can contact me by Email: somebody@example.org\nPostal address Random street 17\n00800 Some City\nDummycountry\n"
+},
+{
+	"uri": "https://sciwrite.github.io/blog/something-about-paris/",
+	"title": "Something About Paris",
+	"tags": [],
+	"description": "",
+	"content": "Something which happened in Paris Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\nDuis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.\nUt wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.\nNam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.\nDuis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.\nAt vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.\n  A picture of ParisPhoto by Rodrigo Kugnharski on Unsplash\n  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\n"
+},
+{
+	"uri": "https://sciwrite.github.io/",
 	"title": "Home",
 	"tags": [],
 	"description": "",
-	"content": "Welcome to my website. This site is under construction, come back again in a few days!\n"
+	"content": "Homepage Welcome to my homepage. This site is under construction. Please come back in a few days!\n"
 },
 {
-	"uri": "http://sciwrite.github.io/home/first-content/",
-	"title": "First Content",
-	"tags": [],
-	"description": "",
-	"content": "This is some sample Lorem Ipsum content.\n"
-},
-{
-	"uri": "http://sciwrite.github.io/home/",
-	"title": "About me",
-	"tags": [],
-	"description": "",
-	"content": "Welcome to my website.\n"
-},
-{
-	"uri": "http://sciwrite.github.io/categories/",
+	"uri": "https://sciwrite.github.io/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://sciwrite.github.io/tags/",
+	"uri": "https://sciwrite.github.io/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
